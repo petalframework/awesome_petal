@@ -19,7 +19,15 @@ A curated list of amazingly awesome Petal libraries, resources, and shiny things
 ## Libraries
 
 ### Boilerplates
-- [Petal Pro](https://petal.build) A boilerplate to get your new web app started. $299 US 
+
+#### Free
+- [Petal Boilerplate](https://github.com/petalframework/petal_boilerplate) A clean PETAL stack (with Petal Components installed)
+- [Full Stack Phoenix Free Generator](https://fullstackphoenix.com/boilerplates) A generator where you can pick options (eg. Tailwind vs Bootstrap)
+- [Legendary](https://gitlab.com/mythic-insight/legendary) A batteries-included Elixir & Phoenix framework and boilerplate for rapid development and long-term maintainability.
+
+#### Paid
+- [Petal Pro](https://petal.build) A boilerplate to get your new web app started. $299 US - inc 1 year of updates.
+- [Live SAAS Kit](https://livesaaskit.com/) Auth, Stripe, Multi-tenancy, Announcements, GraphQL API etc. $39/m
 
 ### Components
 
