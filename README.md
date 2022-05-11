@@ -1,4 +1,4 @@
-# Awesome Petal
+# Awesome Petal ⭐ 🌸 🚀
 
 A curated list of amazingly awesome Petal libraries, resources, and shiny things. Similar to https://github.com/h4cc/awesome-elixir but we will keep it shorter with only the best and actively maintained projects only.
 
