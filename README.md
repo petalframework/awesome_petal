@@ -7,17 +7,21 @@ A curated list of amazingly awesome Petal libraries, resources, and shiny things
 - [Elixir Forum](https://elixirforum.com) - The main forum for Elixir devs
 
 ## Learning
+### Video
+- [Elixircasts.io](https://elixircasts.io/)
+- [Underjord - Building a product in PETAL](https://www.youtube.com/playlist?list=PLk_-dV_ai0LExICJ0tYxB2q6bverPdIrp) - Around 8 hours of content. Last updated Jul 21
+- [Pragmatic Studio Live View](https://pragmaticstudio.com/phoenix-liveview) - Free Live View course (7 videos).  Paid version has 48 videos. $129.Recorded on v0.15 with v0.16 notes
+- [Poeticoding Free](https://www.poeticoding.com/category/phoenix/) - Has a number of free videos. Last updated Nov 21
+- [Poeticoding - Build a Cryptocurrency Dashboard with Elixir and Phoenix LiveView](https://courses.poeticoding.com/p/build-a-cryptocurrency-dashboard-with-elixir-and-phoenix-liveview) - Unsure of version used. $69
 
-### Learn Elixir
+### Blog posts
+- [Building a video chat app in Phoenix Live view](https://littlelines.com/blog/2020/07/06/building-a-video-chat-app-in-phoenix-liveview)
 
-### Learn Phoenix
-
-### Learn Live View
-
-### Learn Tailwind
+### Podcasts
+- [Thinking Elixir](https://podcast.thinkingelixir.com/)
+- [Beamrad](https://www.beamrad.io/) Stories and conversations around Elixir, Erlang and the BEAM ecosystem
 
 ## Libraries
-
 ### Boilerplates
 
 #### Free
@@ -40,6 +44,5 @@ A curated list of amazingly awesome Petal libraries, resources, and shiny things
 - [Flowbite](https://flowbite.com/) Open-source library of over 400+ web components and interactive elements built with the utility classes from Tailwind CSS
 - [DaisyUI](https://daisyui.com/) Open-source Tailwind CSS component library
 
-## Podcasts
 
-- [Beamrad](https://www.beamrad.io/) Stories and conversations around Elixir, Erlang and the BEAM ecosystem
+
